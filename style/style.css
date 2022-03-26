@@ -1,5 +1,5 @@
 .bg-oscure{
-    height: 25vh;
+    height: 40vh;
     background-color: rgba(20, 20, 20, 0.76);
     background-blend-mode: soft-light;
     display: flex;
@@ -7,6 +7,7 @@
     justify-content: center;
     background-position: center;
     background-size: cover;
+    color:white;
 }
 
 .font-varios{
