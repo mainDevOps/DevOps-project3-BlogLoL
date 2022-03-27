@@ -1,9 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500&display=swap');
+
 *{
     box-sizing: border-box;
     margin: 0;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500&display=swap');
 
 /* -- Colours --
 
@@ -53,9 +53,10 @@ header{
     color: #b274ff;
 }
 
-.container-links ul li a:hover{
+.container-links ul li a:hover,
+#burger-menu ul li a:hover{
     background-color: #b274ff;
-    transition: all 0.2s ease-out;
+    transition: background-color 0.2s linear;
     border-radius: 18px;
     color: white;
 }
@@ -116,13 +117,6 @@ header{
         font-size: 2em;
         color: #b274ff;
     }
-    
-    #burger-menu ul li a:hover{
-        background-color: #b274ff;
-        transition: all 0.2s ease-out;
-        border-radius: 18px;
-        color: white;
-    }
 
     .show-menu{
         width: 100vw;
@@ -135,9 +129,8 @@ header{
         flex-direction: column;
         align-items: flex-end;
         visibility: visible;
-        padding: 20px 0;
+        padding: 20px 0 20px 30px;
         list-style: none;
-        transition: background-color 0.5s;
     }
 
     .show-menu ul li:hover{
