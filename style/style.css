@@ -14,3 +14,17 @@
     font-family: 'Dela Gothic One', cursive;
     font-size: small;
 }
+
+.slider-lastChamp{
+    height: 400px;
+}
+
+.slider-fill{
+    width: 75vw;
+}
+
+.slider-draven .slider-rengar .slider-zed{
+    object-fit: cover;
+    display: flex;
+    justify-content: end;
+}
