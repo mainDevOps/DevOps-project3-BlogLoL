@@ -7,7 +7,7 @@ const innerHeader = document.getElementById("header").innerHTML = (
 
 const innerNavContainer = document.getElementById("container-nav").innerHTML = (
     `
-    <a href="index.html"><img src="./src/DCM_Logo.png" class="logo"></a>
+    <a href="index.html"><img src="./src/Logo.png" class="logo"></a>
     <div id="burger-button">
         <div class="bar1"></div>
         <div class="bar2"></div>
@@ -15,10 +15,10 @@ const innerNavContainer = document.getElementById("container-nav").innerHTML = (
     </div>
     <div class="container-links">
         <ul>
-            <li><a href="#">GALLERY</a></li>
-            <li><a href="#">ABOUT US</a></li>
-            <li><a href="#">CONTACT</a></li>
-            <li><a href="#">LOGIN</a></li>
+            <li><a href="gallery.html">GALLERY</a></li>
+            <li><a href="about.html">ABOUT US</a></li>
+            <li><a href="contact.html">CONTACT</a></li>
+            <li><a href="login.html">LOGIN</a></li>
         </ul>
     </div>
     `
@@ -27,10 +27,10 @@ const innerNavContainer = document.getElementById("container-nav").innerHTML = (
 const innerNavMenu = document.getElementById("burger-menu").innerHTML = (
     `
     <ul>
-        <li><a href="#">GALLERY</a></li>
-        <li><a href="#">ABOUT US</a></li>
-        <li><a href="#">CONTACT</a></li>
-        <li><a href="#">LOGIN</a></li>
+    <li><a href="gallery.html">GALLERY</a></li>
+    <li><a href="about.html">ABOUT US</a></li>
+    <li><a href="contact.html">CONTACT</a></li>
+    <li><a href="login.html">LOGIN</a></li>
     </ul>
     `
 )
