@@ -39,3 +39,43 @@ const innerBurgerMenu = document.getElementById("burger-button").addEventListene
     const burgerBtn = document.getElementById("burger-button").classList.toggle("change")
     const showMenu = document.getElementById("burger-menu").classList.toggle("show-menu")
 })
+
+
+const email = document.getElementById("email");
+const pass = document.getElementById("mypassword");
+const repass = document.getElementById("REppassword");
+const birth = document.getElementById("dbirthday");
+const form = document.getElementById("form");
+const parrafo = document.getElementById("warnings");
+
+form.addEventListener("submit", e=>{
+    addEventListener.preventDefault();
+    let warnings ="";
+    let regexEmail = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+    parrafo.innerHTML = "";
+    if(nombre.value.length <6){
+        aler("short name");
+    }
+    
+    console.log(regexEmail)
+    if(!regexEmail.test(email.value)){
+        warnings += 'invalid email <br>';
+        entrar = true;
+
+    }
+    if(pass.value.length <8){
+        warnings += 'invalid password <br>';
+        entrar = true;
+    }
+    if(repass.value.length == pass.value.length){
+        warnings += 'invalid password <br>';
+        entrar = true;
+    }
+    if(entrar){
+        parrafo.innerHTML = warnings;
+    }
+    else{
+        alert("success");
+    }
+
+})
