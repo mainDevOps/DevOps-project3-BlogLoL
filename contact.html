@@ -40,46 +40,47 @@
 
     <div class="container">
         <div class="row d-flex">
-            <div class="col-sm-12 col-md-12 col-lg-6 mb-4">
-                <h1 class="text-center font-description mt-3">Formulario</h1>
-                <form action="" method="post">
+            <div class="col-sm-12 col-md-12 col-lg-6 mt-4">
+                <h1 class="text-center font-title my-4">Contacto</h1>
+                <form action="" method="post" id="form-contact">
                     <div class="mt-3 d-flex">
                         <div class="col-4">
-                            <label for="name">Full name</label>
+                            <label for="name" class="mt-4">Full name</label>
                         </div>
                         <div class="col-8">
-                            <input type="text" name="name" id="name-contact" class="w-100 effect-input" autofocus>
+                            <input type="text" name="name" id="name-contact" class="w-100 effect-input" maxlength="30" minlength="3" autofocus required>
                             <span class="focus-border"></span>
                         </div>
                     </div>
                     <div class="mt-3 d-flex">
                         <div class="col-4">
-                            <label for="topic">Topic</label>
+                            <label for="topic" class="mt-4">Topic</label>
                         </div>
                         <div class="col-8">
-                            <input type="text" name="topic" id="topic-contact" class="w-100 effect-input" resize="none">
+                            <input type="text" name="topic" id="topic-contact" class="w-100 effect-input" maxlength="30" minlength="3" resize="none" required>
                             <span class="focus-border"></span>
                         </div>
                     </div>
                     <div class="mt-3 d-flex">
                         <div class="col-4">
-                            <label for="description">Description</label>
+                            <label for="description" class="mt-4">Description</label>
                         </div>
                         <div class="col-8">
-                            <textarea type="text" name="description" id="topic-contact" class="w-100 effect-input" rows="4"></textarea>
-                            <span class="focus-border"></span>
+                            <textarea type="text" name="description" id="topic-contact" class="w-100 effect-input" rows="4" maxlength="200" minlength="20" required></textarea>
+                            <span class="focus-border mb-1"></span>
                         </div>
                     </div>
                     <div class="d-flex justify-content-end">
-                        <button class="button-contact">Submit</button>
+                        <button type="submit" id="button-contact" value="sendEmail" class="button-contact">Submit</button>
                     </div>
 
                 </form>
 
             </div>
             <div class="col-sm-12 col-md-12 col-lg-6">
-                <h1 class="text-center font-description">Ubicacion</h1>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5035.441983446574!2d-65.24553684285064!3d-26.82101593136056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1648768685385!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <h1 class="text-center font-title my-3">Encuentranos aqui!</h1>
+                <iframe class="map-responsive mb-4 d-block d-lg-none" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5035.441983446574!2d-65.24553684285064!3d-26.82101593136056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1648768685385!5m2!1ses-419!2sar" width="100%" height="200%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="map-responsive mb-4 d-none d-lg-flex" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5035.441983446574!2d-65.24553684285064!3d-26.82101593136056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1648768685385!5m2!1ses-419!2sar" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>
@@ -98,6 +99,9 @@
       type="text/javascript"
       src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/gsap.min.js"
     ></script>
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+    </script>
     <script src="./script/index.js"></script>
   </body>
 </html>
