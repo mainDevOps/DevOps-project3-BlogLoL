@@ -193,24 +193,21 @@ section{
 }
 
 .container-box-pictures{
+    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
-    width: 80%;
-    height: 800px;
-    margin-bottom: 20px;
-    padding: 50px;
-}
-
-.container-box-index{
-    display: inherit;
     justify-content: center;
     align-items: center;
+    width: 80%;
+    height: fit-content;
+    margin-bottom: 20px;
+    padding: 20px;
 }
 
 .container-champion{
     width: 200px;
     height: 320px;
     border: 1px solid black;
+    margin: 20px;
 }
 
 /* ----------- SECTION GALLERY ----------- */
