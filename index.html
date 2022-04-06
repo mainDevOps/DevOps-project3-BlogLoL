@@ -155,58 +155,26 @@
     <!-- ADS -->
 
     <!-- ULTIMAS NOVEDADES -->
-    <h1 class="font-varios text-center">Last champions released</h1>
-    <div class="d-flex justify-content-center">
-      <div class="row slider-fill">
-        <div
-          id="carouselExampleFade"
-          class="carousel slide carousel-fade"
-          data-bs-ride="carousel"
-        >
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img
-                src="src/img/rengar-centinela.jpg"
-                class="d-block slider-lastChamp slider-rengar"
-                alt="Ultimo campeon"
-              />
-            </div>
-            <div class="carousel-item">
-              <img
-                src="src/img/zed-exterminadorgalactico.jpg"
-                class="d-block slider-lastChamp slider-zed"
-                alt="Penultimo campeon"
-              />
-            </div>
-            <div class="carousel-item">
-              <img
-                src="src/img/draven-gladiador.jpg"
-                class="d-block slider-lastChamp slider-draven"
-                alt="Ante Ultimo campeon"
-              />
-            </div>
-          </div>
-          <button
-            class="carousel-control-prev"
-            type="button"
-            data-bs-target="#carouselExampleFade"
-            data-bs-slide="prev"
-          >
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-          </button>
-          <button
-            class="carousel-control-next"
-            type="button"
-            data-bs-target="#carouselExampleFade"
-            data-bs-slide="next"
-          >
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-          </button>
+    <h1 class="font-varios">Last champions released</h1>
+    <div class="container-slider-champs">
+      <div class="slider-champs" id="slider-champs">
+        <div class="slider__section_champs">
+          <h3 class="champ-name">Renata Glasc</h3>
+          <img src="src/gallery/renata.jpg" alt="Renata Glasc" class="slider__img_champs">
         </div>
+        <div class="slider__section_champs">
+          <h3 class="champ-name">Zeri</h3>
+          <img src="src/gallery/zeri.jpg" alt="Zeri" class="slider__img_champs">
+        </div>
+        <div class="slider__section_champs">
+          <h3 class="champ-name">Vex</h3>
+          <img src="src/gallery/vex.jpg" alt="Vex" class="slider__img_champs">
+        </div>
+        <div class="slider__btn_champs slider__btn_champs--right" id="btn-champs-right">&#62;</div>
+        <div class="slider__btn_champs slider__btn_champs--left" id="btn-champs-left">&#60;</div>
       </div>
     </div>
+    
 
     <!-- JavaScript Bundle with Popper -->
     <script
@@ -223,5 +191,6 @@
       src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/gsap.min.js"
     ></script>
     <script src="./script/index.js"></script>
+    <script src="./script/slider-champs.js"></script>
   </body>
 </html>
