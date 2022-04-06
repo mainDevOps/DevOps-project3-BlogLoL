@@ -42,13 +42,10 @@ const innerBurgerMenu = document
       .classList.toggle("show-menu");
   });
 
-const email = document.getElementById("email");
-const pass = document.getElementById("mypassword");
-const repass = document.getElementById("REppassword");
-const birth = document.getElementById("dbirthday");
-const form = document.getElementById("form");
-const parrafo = document.getElementById("warnings");
 
+<<<<<<< HEAD
+
+=======
 form.addEventListener("submit", (e) => {
   addEventListener.preventDefault();
   let warnings = "";
@@ -77,3 +74,4 @@ form.addEventListener("submit", (e) => {
     alert("success");
   }
 })
+>>>>>>> a7b4c7f8aa372b8a0e1336d755289f64aaa03513
