@@ -35,14 +35,14 @@
     <!-- Concact -->
 
     <div class="py-5 bg-contact text-white">
-        <h1 class="text-center font-description px-3">Consulta o sugerencia? Contactanos!</h1>
+        <h1 class="text-center font-description px-3">Query or suggestion? Contact us!</h1>
     </div>
 
     <div class="container">
         <div class="row d-flex">
             <div class="col-sm-12 col-md-12 col-lg-6 mt-4">
-                <h1 class="text-center font-title my-4">Contacto</h1>
-                <form action="" method="post" id="form-contact">
+                <h1 class="text-center font-title my-4">Contact</h1>
+                <form id="form-contact">
                     <div class="mt-3 d-flex">
                         <div class="col-4">
                             <label for="name" class="mt-4">Full name</label>
@@ -71,14 +71,14 @@
                         </div>
                     </div>
                     <div class="d-flex justify-content-end">
-                        <button type="submit" id="button-contact" value="sendEmail" class="button-contact">Submit</button>
+                        <button type="submit-contact" id="button-contact" value="sendEmail" class="button-contact">Submit</button>
                     </div>
 
                 </form>
 
             </div>
             <div class="col-sm-12 col-md-12 col-lg-6">
-                <h1 class="text-center font-title my-3">Encuentranos aqui!</h1>
+                <h1 class="text-center font-title my-5">Find us here!</h1>
                 <iframe class="map-responsive mb-4 d-block d-lg-none" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5035.441983446574!2d-65.24553684285064!3d-26.82101593136056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1648768685385!5m2!1ses-419!2sar" width="100%" height="200%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 <iframe class="map-responsive mb-4 d-none d-lg-flex" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5035.441983446574!2d-65.24553684285064!3d-26.82101593136056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1648768685385!5m2!1ses-419!2sar" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
@@ -102,6 +102,8 @@
     <script type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
     </script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="./script/index.js"></script>
+    <script src="./script/contact.js"></script>
   </body>
 </html>

@@ -1,3 +1,4 @@
+/* SLIDER CHAMPS */
 .bg-oscure {
   height: 40vh;
   background-color: rgba(20, 20, 20, 0.76);
@@ -12,7 +13,10 @@
 
 .font-varios {
   font-family: "Dela Gothic One", cursive;
-  font-size: small;
+  font-size: x-large;
+  width: 100%;
+  margin: 15px;
+  text-align: center;
 }
 
 .font-title {
@@ -24,18 +28,68 @@
   font-family: "Libre Baskerville", serif;
 }
 
-.slider-lastChamp {
-  height: 400px;
+.container-slider-champs{
+ width: 80%;
+ max-width: 400px;
+ margin: auto;
+ overflow: hidden;
+ box-shadow: 0 0 0 10px #222,
+             0 15px 50px;
+  margin-bottom: 40px;
+  margin-top: 30px;
+  position: relative;
 }
-
-.slider-fill {
-  width: 75vw;
-}
-
-.slider-draven .slider-rengar .slider-zed {
-  object-fit: cover;
+.slider-champs{
   display: flex;
-  justify-content: end;
+  width: 300%;
+  height: 700px;
+  margin-left:-100%;
+}
+.slider__section_champs{
+  width: 100%;
+}
+.slider__img_champs{
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.slider__btn_champs{
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: rgba(36, 36, 36, 0.062);
+  color: white;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 30px;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.slider__btn_champs:hover{
+  background: rgba(26, 25, 25, 0.26);
+}
+.slider__btn_champs--right{
+  right: 10px;
+}
+.slider__btn_champs--left{
+  left: 10px;
+}
+.champ-name{
+  position: absolute; 
+  color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+  background: rgba(27, 27, 27, 0.397);
+  margin: 0;
+  padding: 5px;
+  letter-spacing: 8px;
 }
 @import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500&display=swap");
 
@@ -58,6 +112,9 @@
 
 header {
   font-family: "Fredoka", sans-serif;
+}
+body{
+  background-color: #B6B8D6;
 }
 
 #container-nav {
