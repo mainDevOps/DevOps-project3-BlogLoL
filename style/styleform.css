@@ -1,0 +1,260 @@
+/* -------- form -------- Style B*/ 
+
+body {
+	background-image:url(https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc28d43095579c8b5/5d87c24e8d8a3163705e3070/summonersrift.jpg);
+	font-family: 'Open Sans', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	margin: 0;
+	font-family: 'Dela Gothic One', cursive;
+	font-size: small;
+}
+
+.container {
+    background-color: rgba(233, 233, 233, 0.4);
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+	overflow: hidden;
+	width: 400px;
+	max-width: 100%;
+    border: 2px solid rgb(0, 20, 8); 
+}
+
+.header {
+	border-bottom: 1px solid #000000;
+	color: white;
+	padding: 20px 40px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.header h2 {
+	margin: 0;
+}
+
+.form {
+	padding: 30px 40px;	
+}
+
+.form-control {
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+.form-control label {
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.form-control input {
+	border: 2px solid #f0f0f0;
+	border-radius: 4px;
+	display: block;
+	font-family: inherit;
+	font-size: 14px;
+	padding: 10px;
+	width: 100%;
+}
+
+.form-control input:focus {
+	outline: 0;
+	border-color: #777;
+}
+
+.form-control.success input {
+	border-color: #00662a;
+    box-shadow: 0 2px 5px #004b1f;
+}
+
+.form-control.error input {
+	border-color: #c21300;
+    box-shadow: 0 2px 5px #c21300;
+}
+
+.form-control i {
+	visibility: hidden;
+	position: absolute;
+	top: 40px;
+	right: 10px;
+}
+
+.form-control.success i.fa-check-circle {
+	color: #00662a;
+	visibility: visible;
+    padding: 9px;
+    
+}
+
+
+.form-control.error i.fa-exclamation-circle{
+	color: #e74c3c;
+	visibility: visible;
+    padding: 9px;
+}
+
+.form-control small {
+	color: #e74c3c;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	visibility: hidden;
+}
+
+.form-control.error small {
+	visibility: visible;
+}
+.form-succed{
+	justify-self: center;
+	text-align: center;
+	padding-top: 15px;
+}
+.form-succed small {
+	visibility: hidden;
+	color: #00ff22;
+	text-shadow: 0 2px 5px #004d17;
+	font-size: larger;
+	
+	
+}
+.form-succed.error small {
+	visibility: hidden;
+}
+
+
+
+.form button {
+	background-color: #2e518b;
+	border: 2px solid #2e518b;
+	border-radius: 4px;
+	color: #fff;
+	display: block;
+	font-family: inherit;
+	font-size: 16px;
+	padding: 10px;
+	margin-top: 20px;
+	width: 100%;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -------- registro -------- Style A 
+
+.sectionform{
+    height: 659px;
+    width: 100%;
+    background-image:url(https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc28d43095579c8b5/5d87c24e8d8a3163705e3070/summonersrift.jpg)
+    
+
+}
+.containerForm{
+   
+    height: 659px;
+    margin: 0 auto;
+    color: white;
+    width: auto;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    padding: 50px 0px 0px 50px;
+
+    
+    
+}
+.formtitle{
+    text-align:center;   
+}
+.form{
+    
+   
+}
+.form-left{
+    display: inline-block;
+    text-align:start;
+    width: 40%;
+    padding: 5px;
+    margin-top: 10px;
+    vertical-align: top;
+    padding-left: 400px;
+    padding-top: 50px;
+    
+
+}
+.form-right{
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+    vertical-align: middle;
+    padding-top: 41px;
+    font-size: medium;
+    text-transform: uppercase;
+    
+
+
+}
+
+.form-input{
+    height: 40px;
+    width: 350px;
+    border: 1px solid #000000;
+    padding: 6px;
+    margin: 10px;
+    resize: vertical;
+
+}
+
+.button{
+    border: 1px solid #2e518b;
+    text-decoration: none;
+    background-color: #2e518b;
+    text-transform: uppercase;
+    font-family: 'Helvetica', sans-serif;
+    width: 300px;
+    height: 35px;
+
+}
+
+.form-check{
+    text-align:center;
+    padding: 6px;
+
+}
+.form-mens{
+    text-align:center;  
+}
+.form-button-send{
+    text-align:center;  
+}
+
+.form.error small {
+	visibility: visible;
+}
+
+.form.success input {
+	border-color: #2ecc71;
+}
+.form.error input {
+	border-color: #e74c3c;
+} */
