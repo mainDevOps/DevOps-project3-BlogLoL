@@ -14,7 +14,7 @@ request.onload = function() {
         containerBox.innerHTML += (
             `
             <div class="container-champion">
-                <img src="gallery/${champion[i].image}">
+                <img src=${champion[i].image}>
                 <div class="description-champ">
                     <p>${champion[i].name}</p>
                     <p>PI:${champion[i].costPi}  -  RP:${champion[i].costRp}</p>
