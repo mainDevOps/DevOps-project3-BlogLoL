@@ -770,11 +770,11 @@
         "image": "src/gallery/shen.jpg"
     },
     {
-        "name": "Shyvanna",
+        "name": "Shyvana",
         "class": "Colossus",
         "costPi": "3150",
         "costRp": "790",
-        "image": "src/gallery/shyvanna.jpg"
+        "image": "src/gallery/shyvana.jpg"
     },
     {
         "name": "Singed",
@@ -802,7 +802,7 @@
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "src/gallery/skarner"
+        "image": "src/gallery/skarner.jpg"
     },
     {
         "name": "Sona",
