@@ -38,6 +38,7 @@ const innerNavMenu = document.getElementById("burger-menu").innerHTML = (
 const innerBurgerMenu = document.getElementById("burger-button").addEventListener('click', () => {
     const burgerBtn = document.getElementById("burger-button").classList.toggle("change")
     const showMenu = document.getElementById("burger-menu").classList.toggle("show-menu")
+    const spaceMenu = document.getElementById('carouselExampleIndicators').classList.toggle('active-burger-menu')
 })
 
 
