@@ -1,15 +1,27 @@
-async function getChampions(){
-    const response = await fetch('http://127.0.0.1:5500/devops/DevOps-project3-BlogLoL/json/gallery.json')
-}
+const requestJSON = 'https://raw.githubusercontent.com/mainDevOps/DevOps-project3-BlogLoL/master/json/gallery.json'
+const request = new XMLHttpRequest()
+
+request.open('GET', requestJSON);
+request.responseType = 'json';
+request.send();
 
 const containerBox = document.querySelector('.container-box-pictures')
 
-window.addEventListener('load', () => {
+request.onload = function() {
+    const champion = request.response;
+    
     for(let i = 0; i<159; i++){
         containerBox.innerHTML += (
             `
-            <div class="container-champion"></div><br>
+            <div class="container-champion">
+                <img src="gallery/${champion[i].image}">
+                <div class="description-champ">
+                    <p>${champion[i].name}</p>
+                    <p>PI:${champion[i].costPi}  -  RP:${champion[i].costRp}</p>
+                </div>
+            </div>
             `
         )
-    }
-})
+        console.log(champion[i].name)
+    } 
+}
