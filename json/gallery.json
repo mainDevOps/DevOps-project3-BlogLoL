@@ -4,1112 +4,1112 @@
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "aatrox"
+        "image": "src/gallery/aatrox.jpg"
     },
     {
         "name": "Ahri",
         "class": "Wizard",
         "costPi": "3150",
         "costRp": "790",
-        "image": "ahri"
+        "image": "src/gallery/ahri.jpg"
     },
     {
         "name": "Akali",
         "class": "Assassin",
         "costPi": "3150",
         "costRp": "790",
-        "image": "akali"
+        "image": "src/gallery/akali.jpg"
     },
     {
         "name": "Akshan",
         "class": "Shooter",
         "costPi": "6300",
         "costRp": "975",
-        "image": "akshan"
+        "image": "src/gallery/akshan.jpg"
     },
     {
         "name": "Alistar",
         "class": "Tank",
         "costPi": "1350",
         "costRp": "585",
-        "image": "alistar"
+        "image": "src/gallery/alistar.jpg"
     },
     {
         "name": "Amumu",
         "class": "Tank",
         "costPi": "450",
         "costRp": "260",
-        "image": "amumu"
+        "image": "src/gallery/amumu.jpg"
     },
     {
         "name": "Anivia",
         "class": "Wizard",
         "costPi": "3150",
         "costRp": "790",
-        "image": "anivia"
+        "image": "src/gallery/anivia.jpg"
     },
     {
         "name": "Annie",
         "class": "Wizard",
         "costPi": "450",
         "costRp": "260",
-        "image": "annie"
+        "image": "src/gallery/annie.jpg"
     },
     {
         "name": "Aphelios",
         "class": "Shooter",
         "costPi": "6300",
         "costRp": "975",
-        "image": "aphelios"
+        "image": "src/gallery/aphelios.jpg"
     },
     {
         "name": "Ashe",
         "class": "Shooter",
         "costPi": "450",
         "costRp": "260",
-        "image": "ashe"
+        "image": "src/gallery/ashe.jpg"
     },
     {
         "name": "Aurelion Sol",
         "class": "Wizard",
         "costPi": "6300",
         "costRp": "975",
-        "image": "aurelionsol"
+        "image": "src/gallery/aurelionsol.jpg"
     },
     {
         "name": "Azir",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "azir"
+        "image": "src/gallery/azir.jpg"
     },
     {
         "name": "Bardo",
         "class": "Support",
         "costPi": "4800",
         "costRp": "880",
-        "image": "bard"
+        "image": "src/gallery/bard.jpg"
     },
     {
         "name": "Blitzcrank",
         "class": "Tank",
         "costPi": "3150",
         "costRp": "790",
-        "image": "blitzcrank"
+        "image": "src/gallery/blitzcrank.jpg"
     },
     {
         "name": "Brand",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "brand"
+        "image": "src/gallery/brand.jpg"
     },
     {
         "name": "Braum",
         "class": "Support",
         "costPi": "4800",
         "costRp": "880",
-        "image": "braum"
+        "image": "src/gallery/braum.jpg"
     },
     {
         "name": "Caitlyn",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "caitlyn"
+        "image": "src/gallery/caitlyn.jpg"
     },
     {
         "name": "Camille",
         "class": "Colossus",
         "costPi": "6300",
         "costRp": "975",
-        "image": "camille"
+        "image": "src/gallery/camille.jpg"
     },
     {
         "name": "Cassiopeia",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "cassiopeia"
+        "image": "src/gallery/cassiopeia.jpg"
     },
     {
         "name": "Cho'Gath",
         "class": "Tank",
         "costPi": "1350",
         "costRp": "585",
-        "image": "chogath"
+        "image": "src/gallery/chogath.jpg"
     },
     {
         "name": "Corki",
         "class": "Shooter",
         "costPi": "3150",
         "costRp": "790",
-        "image": "corki"
+        "image": "src/gallery/corki.jpg"
     },
     {
         "name": "Darius",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "darius"
+        "image": "src/gallery/darius.jpg"
     },
     {
         "name": "Diana",
         "class": "Assassin",
         "costPi": "4800",
         "costRp": "880",
-        "image": "diana"
+        "image": "src/gallery/diana.jpg"
     },
     {
         "name": "Dr. Mundo",
         "class": "Colossus",
         "costPi": "450",
         "costRp": "260",
-        "image": "drmundo"
+        "image": "src/gallery/drmundo.jpg"
     },
     {
         "name": "Draven",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "draven"
+        "image": "src/gallery/draven.jpg"
     },
     {
         "name": "Ekko",
         "class": "Assassin",
         "costPi": "4800",
         "costRp": "880",
-        "image": "ekko"
+        "image": "src/gallery/ekko.jpg"
     },
     {
         "name": "Elise",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "elise"
+        "image": "src/gallery/elise.jpg"
     },
     {
         "name": "Evelynn",
         "class": "Assassin",
         "costPi": "1350",
         "costRp": "585",
-        "image": "evelynn"
+        "image": "src/gallery/evelynn.jpg"
     },
     {
         "name": "Ezreal",
         "class": "Shooter",
         "costPi": "3150",
         "costRp": "790",
-        "image": "ezreal"
+        "image": "src/gallery/ezreal.jpg"
     },
     {
         "name": "Fiddlesticks",
         "class": "Wizard",
         "costPi": "1350",
         "costRp": "585",
-        "image": "fiddlesticks"
+        "image": "src/gallery/fiddlesticks.jpg"
     },
     {
         "name": "Fiora",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "fiora"
+        "image": "src/gallery/fiora.jpg"
     },
     {
         "name": "Fizz",
         "class": "Assassin",
         "costPi": "4800",
         "costRp": "880",
-        "image": "fizz"
+        "image": "src/gallery/fizz.jpg"
     },
     {
         "name": "Galio",
         "class": "Tank",
         "costPi": "3150",
         "costRp": "790",
-        "image": "galio"
+        "image": "src/gallery/galio.jpg"
     },
     {
         "name": "Gangplank",
         "class": "Colossus",
         "costPi": "3150",
         "costRp": "790",
-        "image": "gangplank"
+        "image": "src/gallery/gangplank.jpg"
     },
     {
         "name": "Garen",
         "class": "Colossus",
         "costPi": "450",
         "costRp": "260",
-        "image": "garen"
+        "image": "src/gallery/garen.jpg"
     },
     {
         "name": "Gnar",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "gnar"
+        "image": "src/gallery/gnar.jpg"
     },
     {
         "name": "Gragas",
         "class": "Colossus",
         "costPi": "3150",
         "costRp": "790",
-        "image": "gragas"
+        "image": "src/gallery/gragas.jpg"
     },
     {
         "name": "Graves",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "graves"
+        "image": "src/gallery/graves.jpg"
     },
     {
         "name": "Gwen",
         "class": "Assassin",
         "costPi": "6300",
         "costRp": "975",
-        "image": "gwen"
+        "image": "src/gallery/gwen.jpg"
     },
     {
         "name": "Hecarim",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "hecarim"
+        "image": "src/gallery/hecarim.jpg"
     },
     {
         "name": "Heimerdinger",
         "class": "Wizard",
         "costPi": "3150",
         "costRp": "790",
-        "image": "heimerdinger"
+        "image": "src/gallery/heimerdinger.jpg"
     },
     {
         "name": "Illaoi",
         "class": "Colossus",
         "costPi": "6300",
         "costRp": "975",
-        "image": "illaoi"
+        "image": "src/gallery/illaoi.jpg"
     },
     {
         "name": "Irelia",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "irelia"
+        "image": "src/gallery/irelia.jpg"
     },
     {
         "name": "Ivern",
         "class": "Support",
         "costPi": "6300",
         "costRp": "975",
-        "image": "ivern"
+        "image": "src/gallery/ivern.jpg"
     },
     {
         "name": "Janna",
         "class": "Support",
         "costPi": "1350",
         "costRp": "585",
-        "image": "janna"
+        "image": "src/gallery/janna.jpg"
     },
     {
         "name": "Jarvan IV",
         "class": "Tank",
         "costPi": "4800",
         "costRp": "880",
-        "image": "jarvaniv"
+        "image": "src/gallery/jarvaniv.jpg"
     },
     {
         "name": "Jax",
         "class": "Colossus",
         "costPi": "1350",
         "costRp": "585",
-        "image": "jax"
+        "image": "src/gallery/jax.jpg"
     },
     {
         "name": "Jayce",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "jayce"
+        "image": "src/gallery/jayce.jpg"
     },
     {
         "name": "Jhin",
         "class": "Shooter",
         "costPi": "6300",
         "costRp": "975",
-        "image": "jhin"
+        "image": "src/gallery/jhin.jpg"
     },
     {
         "name": "Jinx",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "jinx"
+        "image": "src/gallery/jinx.jpg"
     },
     {
         "name": "Kai'Sa",
         "class": "Shooter",
         "costPi": "6300",
         "costRp": "975",
-        "image": "kaisa"
+        "image": "src/gallery/kaisa.jpg"
     },
     {
         "name": "Kalista",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "kalista"
+        "image": "src/gallery/kalista.jpg"
     },
     {
         "name": "Karma",
         "class": "Wizard",
         "costPi": "3150",
         "costRp": "790",
-        "image": "karma"
+        "image": "src/gallery/karma.jpg"
     },
     {
         "name": "Karthus",
         "class": "Wizard",
         "costPi": "3150",
         "costRp": "790",
-        "image": "karthus"
+        "image": "src/gallery/karthus.jpg"
     },
     {
         "name": "Kassadin",
         "class": "Assassin",
         "costPi": "3150",
         "costRp": "790",
-        "image": "kassadin"
+        "image": "src/gallery/kassadin.jpg"
     },
     {
         "name": "Katarina",
         "class": "Assassin",
         "costPi": "3150",
         "costRp": "790",
-        "image": "katarina"
+        "image": "src/gallery/katarina.jpg"
     },
     {
         "name": "Kayle",
         "class": "Colossus",
         "costPi": "450",
         "costRp": "260",
-        "image": "kayle"
+        "image": "src/gallery/kayle.jpg"
     },
     {
         "name": "Kayn",
         "class": "Colossus",
         "costPi": "6300",
         "costRp": "975",
-        "image": "kayn"
+        "image": "src/gallery/kayn.jpg"
     },
     {
         "name": "Kennen",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "kennen"
+        "image": "src/gallery/kennen.jpg"
     },
     {
         "name": "Kha'Zix",
         "class": "Assassin",
         "costPi": "4800",
         "costRp": "880",
-        "image": "khazix"
+        "image": "src/gallery/khazix.jpg"
     },
     {
         "name": "Kindred",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "kindred"
+        "image": "src/gallery/kindred.jpg"
     },
     {
         "name": "Kled",
         "class": "Colossus",
         "costPi": "6300",
         "costRp": "975",
-        "image": "kled"
+        "image": "src/gallery/kled.jpg"
     },
     {
         "name": "Kog'Maw",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "kogmaw"
+        "image": "src/gallery/kogmaw.jpg"
     },
     {
         "name": "LeBlanc",
         "class": "Assassin",
         "costPi": "3150",
         "costRp": "790",
-        "image": "leblanc"
+        "image": "src/gallery/leblanc.jpg"
     },
     {
         "name": "Lee Sin",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "leesin"
+        "image": "src/gallery/leesin.jpg"
     },
     {
         "name": "Leona",
         "class": "Tank",
         "costPi": "4800",
         "costRp": "880",
-        "image": "leona"
+        "image": "src/gallery/leona.jpg"
     },
     {
         "name": "Lillia",
         "class": "Wizard",
         "costPi": "6300",
         "costRp": "975",
-        "image": "lillia"
+        "image": "src/gallery/lillia.jpg"
     },
     {
         "name": "Lissandra",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "lissandra"
+        "image": "src/gallery/lissandra.jpg"
     },
     {
         "name": "Lucian",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "lucian"
+        "image": "src/gallery/lucian.jpg"
     },
     {
         "name": "Lulu",
         "class": "Support",
         "costPi": "4800",
         "costRp": "880",
-        "image": "lulu"
+        "image": "src/gallery/lulu.jpg"
     },
     {
         "name": "Lux",
         "class": "Wizard",
         "costPi": "3150",
         "costRp": "790",
-        "image": "lux"
+        "image": "src/gallery/lux.jpg"
     },
     {
         "name": "Maestro Yi",
         "class": "Assassin",
         "costPi": "450",
         "costRp": "260",
-        "image": "masteryi"
+        "image": "src/gallery/masteryi.jpg"
     },
     {
         "name": "Malphite",
         "class": "Tank",
         "costPi": "1350",
         "costRp": "585",
-        "image": "malphite"
+        "image": "src/gallery/malphite.jpg"
     },
     {
         "name": "Malzahar",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "malzahar"
+        "image": "src/gallery/malzahar.jpg"
     },
     {
         "name": "Maokai",
         "class": "Tank",
         "costPi": "4800",
         "costRp": "880",
-        "image": "maokai"
+        "image": "src/gallery/maokai.jpg"
     },
     {
         "name": "Miss Fortune",
         "class": "Shooter",
         "costPi": "3150",
         "costRp": "790",
-        "image": "missfortune"
+        "image": "src/gallery/missfortune.jpg"
     },
     {
         "name": "Mordekaiser",
         "class": "Colossus",
         "costPi": "1350",
         "costRp": "585",
-        "image": "mordekaiser"
+        "image": "src/gallery/mordekaiser.jpg"
     },
     {
         "name": "Morgana",
         "class": "Wizard",
         "costPi": "1350",
         "costRp": "585",
-        "image": "morgana"
+        "image": "src/gallery/morgana.jpg"
     },
     {
         "name": "Nami",
         "class": "Support",
         "costPi": "4800",
         "costRp": "880",
-        "image": "nami"
+        "image": "src/gallery/nami.jpg"
     },
     {
         "name": "Nasus",
         "class": "Colossus",
         "costPi": "1350",
         "costRp": "585",
-        "image": "nasus"
+        "image": "src/gallery/nasus.jpg"
     },
     {
         "name": "Nautilus",
         "class": "Tank",
         "costPi": "4800",
         "costRp": "880",
-        "image": "nautilus"
+        "image": "src/gallery/nautilus.jpg"
     },
     {
         "name": "Neeko",
         "class": "Wizard",
         "costPi": "6300",
         "costRp": "975",
-        "image": "neeko"
+        "image": "src/gallery/neeko.jpg"
     },
     {
         "name": "Nidalee",
         "class": "Assassin",
         "costPi": "3150",
         "costRp": "790",
-        "image": "nidalee"
+        "image": "src/gallery/nidalee.jpg"
     },
     {
         "name": "Nocturne",
         "class": "Assassin",
         "costPi": "4800",
         "costRp": "880",
-        "image": "nocturne"
+        "image": "src/gallery/nocturne.jpg"
     },
     {
         "name": "Nunu & Willump",
         "class": "Tank",
         "costPi": "450",
         "costRp": "260",
-        "image": "nunu"
+        "image": "src/gallery/nunu.jpg"
     },
     {
         "name": "Olaf",
         "class": "Colossus",
         "costPi": "3150",
         "costRp": "790",
-        "image": "olaf"
+        "image": "src/gallery/olaf.jpg"
     },
     {
         "name": "Orianna",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "orianna"
+        "image": "src/gallery/orianna.jpg"
     },
     {
         "name": "Ornn",
         "class": "Tank",
         "costPi": "6300",
         "costRp": "975",
-        "image": "ornn"
+        "image": "src/gallery/ornn.jpg"
     },
     {
         "name": "Pantheon",
         "class": "Colossus",
         "costPi": "3150",
         "costRp": "790",
-        "image": "pantheon"
+        "image": "src/gallery/pantheon.jpg"
     },
     {
         "name": "Poppy",
         "class": "Tank",
         "costPi": "450",
         "costRp": "260",
-        "image": "poppy"
+        "image": "src/gallery/poppy.jpg"
     },
     {
         "name": "Pyke",
         "class": "Assassin",
         "costPi": "6300",
         "costRp": "975",
-        "image": "pyke"
+        "image": "src/gallery/pyke.jpg"
     },
     {
         "name": "Qiyana",
         "class": "Assassin",
         "costPi": "4800",
         "costRp": "880",
-        "image": "qiyana"
+        "image": "src/gallery/qiyana.jpg"
     },
     {
         "name": "Quinn",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "quinn"
+        "image": "src/gallery/quinn.jpg"
     },
     {
         "name": "Rakan",
         "class": "Support",
         "costPi": "6300",
         "costRp": "975",
-        "image": "rakan"
+        "image": "src/gallery/rakan.jpg"
     },
     {
         "name": "Rammus",
         "class": "Tank",
         "costPi": "1350",
         "costRp": "585",
-        "image": "rammus"
+        "image": "src/gallery/rammus.jpg"
     },
     {
         "name": "Rek'Sai",
         "class": "Colossus",
         "costPi": "6300",
         "costRp": "975",
-        "image": "reksai"
+        "image": "src/gallery/reksai.jpg"
     },
     {
         "name": "Rell",
         "class": "Tank",
         "costPi": "6300",
         "costRp": "975",
-        "image": "rell"
+        "image": "src/gallery/rell.jpg"
     },
     {
         "name": "Renata Glasc",
         "class": "Support",
         "costPi": "6300",
         "costRp": "975",
-        "image": "renata"
+        "image": "src/gallery/renata.jpg"
     },
     {
         "name": "Renekton",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "renekton"
+        "image": "src/gallery/renekton.jpg"
     },
     {
         "name": "Rengar",
         "class": "Assassin",
         "costPi": "4800",
         "costRp": "880",
-        "image": "rengar"
+        "image": "src/gallery/rengar.jpg"
     },
     {
         "name": "Riven",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "riven"
+        "image": "src/gallery/riven.jpg"
     },
     {
         "name": "Rumble",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "rumble"
+        "image": "src/gallery/rumble.jpg"
     },
     {
         "name": "Ryze",
         "class": "Wizard",
         "costPi": "450",
         "costRp": "260",
-        "image": "ryze"
+        "image": "src/gallery/ryze.jpg"
     },
     {
         "name": "Samira",
         "class": "Shooter",
         "costPi": "6300",
         "costRp": "975",
-        "image": "samira"
+        "image": "src/gallery/samira.jpg"
     },
     {
         "name": "Sejuani",
         "class": "Tank",
         "costPi": "4800",
         "costRp": "880",
-        "image": "sejuani"
+        "image": "src/gallery/sejuani.jpg"
     },
     {
         "name": "Senna",
         "class": "Shooter",
         "costPi": "6300",
         "costRp": "975",
-        "image": "senna"
+        "image": "src/gallery/senna.jpg"
     },
     {
         "name": "Seraphine",
         "class": "Wizard",
         "costPi": "6300",
         "costRp": "975",
-        "image": "seraphine"
+        "image": "src/gallery/seraphine.jpg"
     },
     {
         "name": "Sett",
         "class": "Colossus",
         "costPi": "6300",
         "costRp": "975",
-        "image": "sett"
+        "image": "src/gallery/sett.jpg"
     },
     {
         "name": "Shaco",
         "class": "Assassin",
         "costPi": "3150",
         "costRp": "790",
-        "image": "shaco"
+        "image": "src/gallery/shaco.jpg"
     },
     {
         "name": "Shen",
         "class": "Tank",
         "costPi": "3150",
         "costRp": "790",
-        "image": "shen"
+        "image": "src/gallery/shen.jpg"
     },
     {
-        "name": "Shyvana",
+        "name": "Shyvanna",
         "class": "Colossus",
         "costPi": "3150",
         "costRp": "790",
-        "image": "shyvana"
+        "image": "src/gallery/shyvanna.jpg"
     },
     {
         "name": "Singed",
         "class": "Tank",
         "costPi": "450",
         "costRp": "260",
-        "image": "singed"
+        "image": "src/gallery/singed.jpg"
     },
     {
         "name": "Sion",
         "class": "Colossus",
         "costPi": "1350",
         "costRp": "585",
-        "image": "sion"
+        "image": "src/gallery/sion.jpg"
     },
     {
         "name": "Sivir",
         "class": "Shooter",
         "costPi": "450",
         "costRp": "260",
-        "image": "sivir"
+        "image": "src/gallery/sivir.jpg"
     },
     {
         "name": "Skarner",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "skarner"
+        "image": "src/gallery/skarner"
     },
     {
         "name": "Sona",
         "class": "Support",
         "costPi": "3150",
         "costRp": "790",
-        "image": "sona"
+        "image": "src/gallery/sona.jpg"
     },
     {
         "name": "Soraka",
         "class": "Support",
         "costPi": "450",
         "costRp": "260",
-        "image": "soraka"
+        "image": "src/gallery/soraka.jpg"
     },
     {
         "name": "Swain",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "swain"
+        "image": "src/gallery/swain.jpg"
     },
     {
         "name": "Sylas",
         "class": "Wizard",
         "costPi": "6300",
         "costRp": "975",
-        "image": "sylas"
+        "image": "src/gallery/sylas.jpg"
     },
     {
         "name": "Syndra",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "syndra"
+        "image": "src/gallery/syndra.jpg"
     },
     {
         "name": "Tahm Kench",
         "class": "Support",
         "costPi": "4800",
         "costRp": "880",
-        "image": "tahmkench"
+        "image": "src/gallery/tahmkench.jpg"
     },
     {
         "name": "Taliyah",
         "class": "Wizard",
         "costPi": "6300",
         "costRp": "975",
-        "image": "taliyah"
+        "image": "src/gallery/taliyah.jpg"
     },
     {
         "name": "Talon",
         "class": "Assassin",
         "costPi": "4800",
         "costRp": "880",
-        "image": "talon"
+        "image": "src/gallery/talon.jpg"
     },
     {
         "name": "Taric",
         "class": "Support",
         "costPi": "1350",
         "costRp": "585",
-        "image": "taric"
+        "image": "src/gallery/taric.jpg"
     },
     {
         "name": "Teemo",
         "class": "Shooter",
         "costPi": "1350",
         "costRp": "585",
-        "image": "teemo"
+        "image": "src/gallery/teemo.jpg"
     },
     {
         "name": "Thresh",
         "class": "Support",
         "costPi": "4800",
         "costRp": "880",
-        "image": "thresh"
+        "image": "src/gallery/thresh.jpg"
     },
     {
         "name": "Tristana",
         "class": "Shooter",
         "costPi": "1350",
         "costRp": "585",
-        "image": "tristana"
+        "image": "src/gallery/tristana.jpg"
     },
     {
         "name": "Trundle",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "trundle"
+        "image": "src/gallery/trundle.jpg"
     },
     {
         "name": "Tryndamere",
         "class": "Colossus",
         "costPi": "1350",
         "costRp": "585",
-        "image": "tryndamere"
+        "image": "src/gallery/tryndamere.jpg"
     },
     {
         "name": "Twisted Fate",
         "class": "Wizard",
         "costPi": "1350",
         "costRp": "585",
-        "image": "twistedfate"
+        "image": "src/gallery/twistedfate.jpg"
     },
     {
         "name": "Twitch",
         "class": "Shooter",
         "costPi": "3150",
         "costRp": "790",
-        "image": "twitch"
+        "image": "src/gallery/twitch.jpg"
     },
     {
         "name": "Udyr",
         "class": "Colossus",
         "costPi": "1350",
         "costRp": "585",
-        "image": "udyr"
+        "image": "src/gallery/udyr.jpg"
     },
     {
         "name": "Urgot",
         "class": "Colossus",
         "costPi": "3150",
         "costRp": "790",
-        "image": "urgot"
+        "image": "src/gallery/urgot.jpg"
     },
     {
         "name": "Varus",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "varus"
+        "image": "src/gallery/varus.jpg"
     },
     {
         "name": "Vayne",
         "class": "Shooter",
         "costPi": "4800",
         "costRp": "880",
-        "image": "vayne"
+        "image": "src/gallery/vayne.jpg"
     },
     {
         "name": "Veigar",
         "class": "Wizard",
         "costPi": "1350",
         "costRp": "585",
-        "image": "veigar"
+        "image": "src/gallery/veigar.jpg"
     },
     {
         "name": "Vel'Koz",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "velkoz"
+        "image": "src/gallery/velkoz.jpg"
     },
     {
         "name": "Vex",
         "class": "Wizard",
         "costPi": "6300",
         "costRp": "975",
-        "image": "vex"
+        "image": "src/gallery/vex.jpg"
     },
     {
         "name": "Vi",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "vi"
+        "image": "src/gallery/vi.jpg"
     },
     {
         "name": "Viego",
         "class": "Assassin",
         "costPi": "6300",
         "costRp": "975",
-        "image": "viego"
+        "image": "src/gallery/viego.jpg"
     },
     {
         "name": "Viktor",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "viktor"
+        "image": "src/gallery/viktor.jpg"
     },
     {
         "name": "Vladimir",
         "class": "Wizard",
         "costPi": "3150",
         "costRp": "790",
-        "image": "vladimir"
+        "image": "src/gallery/vladimir.jpg"
     },
     {
         "name": "Volibear",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "volibear"
+        "image": "src/gallery/volibear.jpg"
     },
     {
         "name": "Warwick",
         "class": "Colossus",
         "costPi": "450",
         "costRp": "260",
-        "image": "warwick"
+        "image": "src/gallery/warwick.jpg"
     },
     {
         "name": "Wukong",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "wukong"
+        "image": "src/gallery/wukong.jpg"
     },
     {
         "name": "Xayah",
         "class": "Shooter",
         "costPi": "6300",
         "costRp": "975",
-        "image": "xayah"
+        "image": "src/gallery/xayah.jpg"
     },
     {
         "name": "Xerath",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "xerath"
+        "image": "src/gallery/xerath.jpg"
     },
     {
         "name": "Xin Zhao",
         "class": "Tank",
         "costPi": "1350",
         "costRp": "585",
-        "image": "xinzhao"
+        "image": "src/gallery/xinzhao.jpg"
     },
     {
         "name": "Yasuo",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "yasuo"
+        "image": "src/gallery/yasuo.jpg"
     },
     {
         "name": "Yone",
         "class": "Assassin",
         "costPi": "6300",
         "costRp": "975",
-        "image": "yone"
+        "image": "src/gallery/yone.jpg"
     },
     {
         "name": "Yorick",
         "class": "Colossus",
         "costPi": "4800",
         "costRp": "880",
-        "image": "yorick"
+        "image": "src/gallery/yorick.jpg"
     },
     {
         "name": "Yuumi",
         "class": "Support",
         "costPi": "6300",
         "costRp": "975",
-        "image": "yuumi"
+        "image": "src/gallery/yuumi.jpg"
     },
     {
         "name": "Zac",
         "class": "Tank",
         "costPi": "4800",
         "costRp": "880",
-        "image": "zac"
+        "image": "src/gallery/zac.jpg"
     },
     {
         "name": "Zed",
         "class": "Assassin",
         "costPi": "4800",
         "costRp": "880",
-        "image": "zed"
+        "image": "src/gallery/zed.jpg"
     },
     {
         "name": "Zeri",
         "class": "Shooter",
         "costPi": "6300",
         "costRp": "975",
-        "image": "zeri"
+        "image": "src/gallery/zeri.jpg"
     },
     {
         "name": "Ziggs",
         "class": "Wizard",
         "costPi": "4800",
         "costRp": "880",
-        "image": "ziggs"
+        "image": "src/gallery/ziggs.jpg"
     },
     {
         "name": "Zilean",
         "class": "Support",
         "costPi": "1350",
         "costRp": "585",
-        "image": "zilean"
+        "image": "src/gallery/zilean.jpg"
     },
     {
         "name": "Zoe",
         "class": "Wizard",
         "costPi": "6300",
         "costRp": "975",
-        "image": "zoe"
+        "image": "src/gallery/zoe.jpg"
     },
     {
         "name": "Zyra",
         "class": "Support",
         "costPi": "4800",
         "costRp": "880",
-        "image": "zyra"
+        "image": "src/gallery/zyra.jpg"
     }
 ]
