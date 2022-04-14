@@ -24,18 +24,6 @@
   letter-spacing: 5px;
 }
 
-<<<<<<< HEAD
-.slider-fill{
-    width: 75vw;
-    
-}
-
-.slider-draven .slider-rengar .slider-zed{
-    object-fit: cover;
-    display: flex;
-    justify-content: end;
-    
-=======
 .font-description {
   font-family: "Libre Baskerville", serif;
 }
@@ -50,7 +38,6 @@
   margin-bottom: 40px;
   margin-top: 30px;
   position: relative;
->>>>>>> a7b4c7f8aa372b8a0e1336d755289f64aaa03513
 }
 .slider-champs{
   display: flex;
@@ -127,7 +114,7 @@ header {
   font-family: "Fredoka", sans-serif;
 }
 body{
-  background-color: #B6B8D6;
+  background-color: white;
 }
 
 #container-nav {
@@ -303,36 +290,27 @@ section {
   box-shadow: 6px 7px #b274ff;
 }
 
-.container-box-pictures {
-  flex-wrap: wrap;
-  justify-content: space-between;
-  width: 80%;
-  height: 800px;
-  margin-bottom: 20px;
-  padding: 50px;
+.container-box-pictures{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: fit-content;
+    margin-bottom: 20px;
+    padding: 20px;
 }
 
-.container-box-index {
-  display: inherit;
-  justify-content: center;
-  align-items: center;
-}
-
-.container-champion {
-  width: 200px;
-  height: 320px;
-  border: 1px solid black;
+.container-champion{
+    width: 200px;
+    height: 320px;
+    border: 1px solid black;
+    margin: 20px;
 }
 
 /* ----------- SECTION GALLERY ----------- */
 
-* {
-  margin: 0;
-  padding: 0;
-}
-
 /* ------- slider ----------*/
-@media screen and (max-width:800px){
     
 /* ------- end slider ----------*/
 
@@ -346,8 +324,6 @@ section {
   }
 }
 
-<<<<<<< HEAD
-=======
 /* -------- registro --------*/
 
 .containerReG {
@@ -496,4 +472,3 @@ input[type="text"]{color: #333; width: 100%; box-sizing: border-box; letter-spac
     width: 100%;
     transition: 0.4s;
 }
->>>>>>> a7b4c7f8aa372b8a0e1336d755289f64aaa03513
